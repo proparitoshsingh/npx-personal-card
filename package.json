@@ -1,0 +1,32 @@
+{
+  "name": "paritosh",
+  "version": "2.0.0",
+  "description": "A personal card for Paritosh Singh",
+  "bin": {
+    "paritosh": "./cli.js"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Paritosh Singh <paritoshsingh1609@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.7.0",
+    "inquirer": "^9.1.2",
+    "open": "^8.4.0",
+    "ora": "^6.1.2",
+    "request": "^2.88.2"
+  }
+}
