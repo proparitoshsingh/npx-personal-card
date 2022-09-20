@@ -3,9 +3,9 @@
   "version": "3.0.0",
   "description": "A personal card for Paritosh Singh",
   "bin": {
-    "paritosh": "./cli.js"
+    "paritosh": "./cli.mjs"
   },
-  "main": "cli.js",
+  "main": "cli.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
