@@ -12,4 +12,4 @@ npx paritosh
 
 I created this with help of [this blog on npx cards](https://studioelsa.se/blog/open-source-oss-npx-business-card/) , you can use this to create one for yourself.
 
-### Conside giving a star if you liked this :) 
+### Consider giving a star if you liked this :) 
